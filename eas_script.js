@@ -29,8 +29,6 @@ clearButt.addEventListener("click", () => {
         element.addEventListener("mouseover",() => {
             element.style.backgroundColor = "black";
         } );
-
-        
     })
 })
 
